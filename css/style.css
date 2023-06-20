@@ -1,0 +1,36 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.flex {
+  display: flex;
+}
+.reverse {
+  flex-direction: row-reverse;
+}
+
+.container {
+  margin-top:30px;
+}
+
+.blue-bg-color {
+  background-color: #006cfa;
+  color:white;
+  font-size:0.9rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.green-bg-color {
+  background-color:#00e165 ;
+  border-color: #006cfa;
+  justify-content: center;
+  align-items: center;
+}
+
+.padding {
+  padding:10px;
+}
