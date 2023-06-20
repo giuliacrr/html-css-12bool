@@ -1,0 +1,14 @@
+[class*="col-"] {
+  flex: 0 0 auto;
+  min-height:10px;
+  min-width:10px;
+}
+
+.row {
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/*COLUMNS*/
